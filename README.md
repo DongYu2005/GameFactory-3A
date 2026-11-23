@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Assets-Image%20%7C%203D%20%7C%20Motion%20%7C%20Audio%20%7C%20CG%20Video-00897b?style=flat-square" alt="Asset coverage" />
 </p>
 
-> **📚 New reports coming soon — we will soon open-source several new reports.**
->
-> **🚀 Major upgrade ahead — we are preparing a major repository update and simplification to support powerful models such as Astra and ops5.5.**
+> **📚 New report: [Inverse VFX](docs/GameFactory3A-VFX/README.md) — recovering executable effect trees from text and video. More reports are coming soon.**
 
 # 3AGameFactory
 

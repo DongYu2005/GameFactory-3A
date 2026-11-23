@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Assets-Image%20%7C%203D%20%7C%20Motion%20%7C%20Audio%20%7C%20CG%20Video-00897b?style=flat-square" alt="资产能力覆盖" />
 </p>
 
-> **📚 新报告即将开源 — 我们即将开源几份新的报告，敬请期待。**
->
-> **🚀 重磅升级预告 — 我们即将对仓库进行重大更新与简化，适配 Astra、ops5.5 等能力强大的模型。**
+> **📚 新报告：[Inverse VFX](docs/GameFactory3A-VFX/README.md) — 从文本和视频恢复可执行的特效树。更多报告即将开源，敬请期待。**
 
 # 3AGameFactory
 
